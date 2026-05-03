@@ -211,66 +211,10 @@ LED bergantian antara 3 LED kiri dan 3 LED kanan dengan nada sirine dua frekuens
 
 ---
 
-## 🤝 Kontribusi
-
-Kontribusi sangat disambut! Berikut cara untuk berkontribusi:
-
-1. **Fork** repositori ini
-2. Buat branch fitur baru:
-   ```bash
-   git checkout -b fitur/nama-fitur-baru
-   ```
-3. Commit perubahan Anda:
-   ```bash
-   git commit -m "feat: tambahkan fitur nama-fitur-baru"
-   ```
-4. Push ke branch:
-   ```bash
-   git push origin fitur/nama-fitur-baru
-   ```
-5. Buka **Pull Request** dan deskripsikan perubahan yang Anda buat
-
-### Panduan Kontribusi
-
-- Ikuti gaya penulisan kode yang sudah ada
-- Tambahkan komentar pada logika yang kompleks
-- Uji perubahan Anda di simulator Wokwi sebelum mengajukan PR
-- Untuk bug report, gunakan fitur **Issues** dengan menyertakan deskripsi masalah dan langkah reproduksi
-
----
-
-## 📄 Lisensi
-
-```
-MIT License
-
-Copyright (c) 2024 liwirya
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
 <div align="center">
 
 Dibuat menggunakan MicroPython & Wokwi
 
-⭐ Beri bintang jika proyek ini bermanfaat!
+Beri ⭐ jika proyek ini bermanfaat!
 
 </div>
