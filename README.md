@@ -16,9 +16,6 @@ Proyek berbasis **Raspberry Pi Pico** yang mengintegrasikan kontrol LED, audio b
 - [Koneksi Pin](#-koneksi-pin)
 - [Cara Penggunaan](#-cara-penggunaan)
 - [Mode Operasi](#-mode-operasi)
-- [Kontribusi](#-kontribusi)
-- [Lisensi](#-lisensi)
-
 ---
 
 ## ✨ Fitur Utama
