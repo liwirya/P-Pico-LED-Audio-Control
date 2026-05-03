@@ -1,1 +1,1 @@
-# -P-Pico-LED-Audio-Control
+# P-Pico-LED-Audio-Control
